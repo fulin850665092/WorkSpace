@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+    <output url="file://$MODULE_DIR$/../scala_ter/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../scala_ter/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../scala_ter">
+      <sourceFolder url="file://$MODULE_DIR$/../scala_ter/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../scala_ter/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../scala_ter/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../scala_ter/src/main/scala" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../scala_ter/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.atguigu:summer-framework:unknown" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.12.11" level="project" />
+  </component>
+</module>

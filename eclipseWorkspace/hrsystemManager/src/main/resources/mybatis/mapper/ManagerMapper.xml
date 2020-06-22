@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hengyangshiyuan.hrsystem.dao.ManagerDao">
+
+	
+	<select id="getType" resultType="String">
+		select `userType` from t_user where id=#{userId} 
+	</select>
+	<select id="queryForPageItems" resultType="Order">
+		SELECT `order_id` orderId,price,`user_id` userId,`address`,`phone`,`recname`,`email`,remark,status 
+		from t_order where 1=1 limit #{begin},#{pageSize}
+	</select>
+	<select id="queryUserForPageItems" resultType="User">
+		SELECT * from t_user where 1=1 limit #{begin},#{pageSize}
+	</select>
+	<select id="queryGongGao" resultType="String">
+		SELECT gonggao from t_user where username='admin' and usertype=#{usertype}
+	</select>
+</mapper>
+ 
+

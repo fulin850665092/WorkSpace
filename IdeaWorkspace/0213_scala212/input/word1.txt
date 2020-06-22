@@ -1,0 +1,4 @@
+"hello", 4
+"hello spark", 3
+"hello spark scala", 2
+"hello spark scala hive", 1

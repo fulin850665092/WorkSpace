@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="az-core-3.84.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kafkaalert/lib/az-core-3.84.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

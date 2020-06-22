@@ -1,0 +1,8 @@
+com/atguigu/flume/interceptor/MyInterceptor.class
+com/atguigu/flume/interceptor/MyInterceptor$Builder.class
+com/atguigu/flume/sink/MySink.class
+com/atguigu/flume/source/CustomPollableSource.class
+com/atguigu/flume/source/MyPollableSource.class
+com/atguigu/flume/interceptor/CustomInterceptor.class
+com/atguigu/flume/interceptor/CustomInterceptor$Builder.class
+com/atguigu/flume/sink/CustomSink.class

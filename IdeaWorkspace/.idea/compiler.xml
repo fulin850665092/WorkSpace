@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="0213_zookeeperClient" />
+        <module name="0213_flume" />
+        <module name="HDFS_0213" />
+        <module name="springbootdemo" />
+        <module name="hrsystemManager" />
+        <module name="0213_hbase" />
+        <module name="hello" />
+        <module name="0213_hbase_tes" />
+        <module name="0213_hive_gulivideo_etl" />
+        <module name="scala" />
+        <module name="0213_hive" />
+        <module name="0213_hbase_weibo" />
+        <module name="log-collector" />
+        <module name="day27" />
+        <module name="hello (1)" />
+        <module name="0213_warehouse_flumeInterceptor" />
+        <module name="0213_hdfsClient" />
+        <module name="spark" />
+        <module name="HDFS-0508" />
+        <module name="day30" />
+        <module name="0213_scala" />
+        <module name="hdfs_0213Client" />
+        <module name="HDFS-0213" />
+        <module name="0213_mapReduce" />
+        <module name="0213_azkaban" />
+        <module name="0213_flink" />
+        <module name="web" />
+        <module name="0213_kafka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="0213_azkaban" target="1.5" />
+      <module name="0213_flink" target="1.5" />
+      <module name="0213_flume" target="1.5" />
+      <module name="0213_hbase" target="1.5" />
+      <module name="0213_hbase_tes" target="1.5" />
+      <module name="0213_hbase_weibo" target="1.5" />
+      <module name="0213_hdfsClient" target="1.5" />
+      <module name="0213_hive" target="1.5" />
+      <module name="0213_hive_gulivideo_etl" target="1.5" />
+      <module name="0213_kafka" target="8" />
+      <module name="0213_mapReduce" target="1.5" />
+      <module name="0213_scala" target="1.5" />
+      <module name="0213_scala212" target="1.5" />
+      <module name="0213_warehouse_flumeInterceptor" target="1.8" />
+      <module name="0213_zookeeperClient" target="1.5" />
+      <module name="day27" target="1.8" />
+      <module name="day30" target="1.8" />
+      <module name="HDFS-0508" target="1.5" />
+      <module name="HDFS_0213" target="1.5" />
+      <module name="hdfs_0213Client" target="1.5" />
+      <module name="hello" target="1.8" />
+      <module name="hello (1)" target="1.8" />
+      <module name="hrsystemManager" target="1.8" />
+      <module name="log-collector" target="1.5" />
+      <module name="scala" target="1.5" />
+      <module name="scala (1) (com.atguigu.bigdata)" target="1.5" />
+      <module name="scala_ter" target="6" />
+      <module name="spark" target="1.5" />
+      <module name="springbootdemo" target="1.8" />
+      <module name="summer-framework" target="1.5" />
+      <module name="web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springbootdemo" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hengyangshiyuan.hrsystem.dao.CartDao">
+
+	<insert id="addCart" >
+		insert into t_cart(`cart_id`,`commodity_id`,`user_id`) values(#{cartId},#{labelId},#{userId})
+	</insert>
+	<select id="queryCountByUserId" resultType="int">
+		select count(*) from t_cart where `user_id`=#{userId} and status='0'
+	</select>
+	<select id="queryCartByUserId" resultType="Cart">
+		select `cart_id` cartId,`commodity_id` commodityId,`user_id` userId,count from t_cart where `user_id`=#{userId} and `commodity_id`=#{labelId}
+	</select>
+	<update id="updateCount" >
+		update t_cart set count=#{count} where `cart_id`=#{cartId}
+	</update>
+	<select id="geMyOrders" resultType="map">
+		SELECT `cart_id` cartId,`commodity_id` commodityId,`user_id` userId,a.`count` ,b.`name`,b.`price`,b.`market_price` marketPrice,b.`img_path` imgPath,b.`specification`,b.`type_id` typeId
+		FROM t_cart a
+		JOIN t_commodity b
+		ON a.`commodity_id`=b.`label_id`
+		WHERE `user_id`=#{userId}
+		and status='0'
+	</select>
+	<delete id="deleteCartByCartId">
+		delete from t_cart where `cart_id`=#{cartId}
+	</delete>
+	<delete id="clearCart">
+		delete from t_cart  where `user_id`=#{userId} and status='0'
+	</delete>
+	<update id="updateCountByCartId" >
+		update t_cart set count=#{count} where `cart_id`=#{cartId}
+	</update>
+	<update id="updataOrderIdAndStatusBycartId" >
+		update t_cart set `order_id`=#{orderId} ,`status`=#{status} where `cart_id`=#{cartId}
+	</update>
+	<select id="queryCountByOrderId" resultType="int">
+		select count(*) from t_cart where `order_id`=#{orderId} 
+	</select>
+</mapper>
+ 
+

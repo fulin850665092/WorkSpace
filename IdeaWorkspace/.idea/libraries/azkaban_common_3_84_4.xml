@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="azkaban-common-3.84.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kafkaalert/lib/azkaban-common-3.84.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kafkaalert/lib/gson-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kafkaalert/lib/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

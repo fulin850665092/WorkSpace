@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configurable"/>
+<fullyQualifiedTypeName name="java.rmi.server.RemoteRef"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.RemoteIterator"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.LocatedFileStatus"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.BlockLocation"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FileStatus"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="org.apache.zookeeper.AsyncCallback.VoidCallback"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.nio.channels.NonWritableChannelException"/>
+<fullyQualifiedTypeName name="java.lang.Byte"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IOUtils"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FileSystem"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
+</qualifiedTypeNameHistroy>

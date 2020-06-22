@@ -1,0 +1,14 @@
+mybatis:
+  config-location: classpath:mybatis/mybatis.cfg.xml        
+  type-aliases-package: com.atguigu.bean
+  mapper-locations:
+  - classpath:mybatis/mapper/**/*.xml
+
+spring:
+   application:
+    name: springbootdemo
+   datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: 850665092

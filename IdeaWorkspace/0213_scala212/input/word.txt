@@ -1,0 +1,5 @@
+hello spark
+hello scala hive
+hello spark hive
+spark hadoop hive spark
+hello hadoop hive spark

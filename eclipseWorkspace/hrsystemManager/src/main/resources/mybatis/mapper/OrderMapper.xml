@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hengyangshiyuan.hrsystem.dao.OrderDao">
+
+	<insert id="creatOrder">
+		insert into t_order(`order_id`,price,`user_id`,`address`,`phone`,`recname`,`email`) 
+					values(#{orderId},#{price},#{userId},#{address},#{mobile},#{recName},#{email})
+	</insert>
+	<select id="queryCountOrderByUserId" resultType="int">
+		select count(*) from t_order where `user_id`=#{userId} 
+	</select>
+	<select id="queryOrderListByUserId" resultType="Order">
+		select `order_id` orderId,price,`user_id` userId,`address`,`phone`,`recname`,`email` from t_order where `user_id`=#{userId} 
+	</select>
+	<select id="queryOrderList" resultType="Order">
+		SELECT `order_id` orderId,price,`user_id` userId,`address`,`phone`,`recname`,`email` 
+		FROM t_order  
+	</select>
+	<select id="queryForPageTotalCount" resultType="int">
+		select count(*) from t_order 
+	</select>
+	<update id="updateOrder" >
+		update t_Order set recname=#{recName}				
+							,price=#{price}
+							,phone=#{phone}
+							,address=#{address}
+							,status=#{status}
+							where `order_id`=#{orderId}
+	</update>
+</mapper>
+ 
+

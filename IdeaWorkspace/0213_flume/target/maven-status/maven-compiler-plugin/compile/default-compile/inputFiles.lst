@@ -1,0 +1,7 @@
+/Users/fulin/workspace/IdeaWorkspace/0213_flume/src/main/java/com/atguigu/flume/source/CustomPollableSource.java
+/Users/fulin/workspace/IdeaWorkspace/0213_flume/src/main/java/com/atguigu/flume/interceptor/MyInterceptor_Kafka.java
+/Users/fulin/workspace/IdeaWorkspace/0213_flume/src/main/java/com/atguigu/flume/interceptor/CustomInterceptor.java
+/Users/fulin/workspace/IdeaWorkspace/0213_flume/src/main/java/com/atguigu/flume/source/MyPollableSource.java
+/Users/fulin/workspace/IdeaWorkspace/0213_flume/src/main/java/com/atguigu/flume/sink/MySink.java
+/Users/fulin/workspace/IdeaWorkspace/0213_flume/src/main/java/com/atguigu/flume/interceptor/MyInterceptor.java
+/Users/fulin/workspace/IdeaWorkspace/0213_flume/src/main/java/com/atguigu/flume/sink/CustomSink.java

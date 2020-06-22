@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file url="file://$PROJECT_DIR$/sss/overlays" />
+    <file type="web" url="file://$PROJECT_DIR$/hrsystemManager" />
+    <file type="web" url="file://$PROJECT_DIR$/sss" />
+    <file type="web" url="file://$PROJECT_DIR$/web" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/atguigu/pom.xml" />
+        <option value="$PROJECT_DIR$/hello/pom.xml" />
+        <option value="$PROJECT_DIR$/hrsystemManager/pom.xml" />
+        <option value="$PROJECT_DIR$/day26/pom.xml" />
+        <option value="$PROJECT_DIR$/day27/pom.xml" />
+        <option value="$PROJECT_DIR$/day28/pom.xml" />
+        <option value="$PROJECT_DIR$/day30/pom.xml" />
+        <option value="$PROJECT_DIR$/day31/pom.xml" />
+        <option value="$PROJECT_DIR$/HDFS0213/pom.xml" />
+        <option value="$PROJECT_DIR$/HDFS-0508/pom.xml" />
+        <option value="$PROJECT_DIR$/hdfs_0213Client/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_hdfsClient/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_MapReduce/pom.xml" />
+        <option value="$PROJECT_DIR$/_0213_zookeeperClient/pom.xml" />
+        <option value="$PROJECT_DIR$/gulivideo_etl/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_gulivideo_etl/pom.xml" />
+        <option value="$PROJECT_DIR$/_0213_flume/pom.xml" />
+        <option value="$PROJECT_DIR$/_0213_hive/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_flume/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_hive/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_hive_gulivideo_etl/pom.xml" />
+        <option value="$PROJECT_DIR$/_0213_kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/_0213_azkaban/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_azkaban/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_zookeeperClient/pom.xml" />
+        <option value="$PROJECT_DIR$/log-collector/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_hbase_weibo/pom.xml" />
+        <option value="$PROJECT_DIR$/0203_scala/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_warehouse_flumeInterceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_scala212/pom.xml" />
+        <option value="$PROJECT_DIR$/summer-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/scala/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_flink/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_hbase_tes/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
