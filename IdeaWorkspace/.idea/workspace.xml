@@ -10,15 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="194a083d-c389-48ec-8a7e-1411efa1ce6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHbase_tes/driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHbase_tes/map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHbase_tes/reduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHdfs_tes/driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHdfs_tes/mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHdfs_tes/reduce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/api/Hbase_Tes.java" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/api/Hbase_Tes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/api/tes.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/atguigu/target/" />
     <ignored path="$PROJECT_DIR$/atguigu/com.shanggugui/target/" />
@@ -132,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHdfs_tes/driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="653">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -204,7 +198,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -298,8 +292,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="26" />
+    <option name="x" value="55" />
+    <option name="y" value="76" />
     <option name="width" value="1730" />
     <option name="height" value="1048" />
   </component>
@@ -312,8 +306,86 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_hbase_tes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -345,7 +417,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.run.dashboard.notification" value="false" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/0213_scala212/scala/target/classes/com/atguigu/scala/test$.class" />
   </component>
@@ -831,7 +903,17 @@
       <workItem from="1592736022319" duration="1078000" />
       <workItem from="1592742522458" duration="5772000" />
       <workItem from="1592784603265" duration="1200000" />
+      <workItem from="1592796973071" duration="523000" />
+      <workItem from="1592797514906" duration="764000" />
     </task>
+    <task id="LOCAL-00001" summary="tijiao">
+      <created>1592797590104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592797590104</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -867,7 +949,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1290351000" />
+    <option name="totallyTimeSpent" value="1291638000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -879,9 +961,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="26" width="1730" height="1048" extended-state="0" />
+    <frame x="55" y="76" width="1730" height="1048" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27213115" visible="true" weight="0.2467223" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27213115" visible="true" weight="0.25387365" />
       <window_info id="Structure" order="1" sideWeight="0.72786885" side_tool="true" weight="0.21334922" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -898,7 +980,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3278328" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32786885" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.36399218" side_tool="true" weight="0.36499467" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.36399218" side_tool="true" weight="0.25827107" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32991013" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32972974" />
@@ -969,6 +1051,14 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/day26" />
+    </ignored-roots>
+    <MESSAGE value="tijiao" />
+    <option name="LAST_COMMIT_MESSAGE" value="tijiao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1044,13 +1134,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0213_scala212/spark/src/main/scala/com/atguigu/spark/sql/api/spk3_core.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0213_scala212/spark/src/main/scala/com/atguigu/spark/sql/api/spk2_core.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -1443,10 +1526,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/api/tes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHdfs_tes/driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="653">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
