@@ -9,11 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="194a083d-c389-48ec-8a7e-1411efa1ce6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/api/tes.java" beforeDir="false" />
-    </list>
+    <list default="true" id="194a083d-c389-48ec-8a7e-1411efa1ce6b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/atguigu/target/" />
     <ignored path="$PROJECT_DIR$/atguigu/com.shanggugui/target/" />
     <ignored path="$PROJECT_DIR$/hello/target/" />
@@ -126,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHdfs_tes/driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="736">
+              <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -904,7 +900,7 @@
       <workItem from="1592742522458" duration="5772000" />
       <workItem from="1592784603265" duration="1200000" />
       <workItem from="1592796973071" duration="523000" />
-      <workItem from="1592797514906" duration="764000" />
+      <workItem from="1592797514906" duration="2178000" />
     </task>
     <task id="LOCAL-00001" summary="tijiao">
       <created>1592797590104</created>
@@ -913,7 +909,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592797590104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tijiao">
+      <created>1592806009446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592806009446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -949,7 +952,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1291638000" />
+    <option name="totallyTimeSpent" value="1293052000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1535,8 +1538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/mrHdfs_tes/driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="736">
+          <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
