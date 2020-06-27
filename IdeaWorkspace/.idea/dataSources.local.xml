@@ -7,5 +7,20 @@
       <user-name>atguigu</user-name>
       <introspection-schemas>*:*</introspection-schemas>
     </data-source>
+    <data-source name="hive_202" uuid="929cd6c7-f158-4607-984b-6712d4e282af">
+      <database-info product="Apache Hive" version="3.1.2" jdbc-version="3.0" driver-name="Hive JDBC" driver-version="3.1.2" dbms="HIVE" exact-version="3.1.2" exact-driver-version="3.1" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>atguigu</user-name>
+      <introspection-schemas>*:*</introspection-schemas>
+    </data-source>
+    <data-source name="phoenix" uuid="3b41e5c3-8090-4ec9-bdab-d77875dbb936">
+      <database-info product="Apache Phoenix" version="unknown version" jdbc-version="4.1" driver-name="Phoenix Remote JDBC Driver" driver-version="unknown version" dbms="PHOENIX" exact-version="0.0" exact-driver-version="0.0">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>atguigu</user-name>
+      <introspection-schemas>*:*|@:@</introspection-schemas>
+    </data-source>
   </component>
 </project>

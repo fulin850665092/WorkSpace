@@ -7,12 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/0213_flume/0213_flume.iml" filepath="$PROJECT_DIR$/0213_flume/0213_flume.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hbase/0213_hbase.iml" filepath="$PROJECT_DIR$/0213_hbase/0213_hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hbase_tes/0213_hbase_tes.iml" filepath="$PROJECT_DIR$/0213_hbase_tes/0213_hbase_tes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_hbase_test/0213_hbase_test.iml" filepath="$PROJECT_DIR$/0213_hbase_test/0213_hbase_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hbase_weibo/0213_hbase_weibo.iml" filepath="$PROJECT_DIR$/0213_hbase_weibo/0213_hbase_weibo.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hdfsClient/0213_hdfsClient.iml" filepath="$PROJECT_DIR$/0213_hdfsClient/0213_hdfsClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hive/0213_hive.iml" filepath="$PROJECT_DIR$/0213_hive/0213_hive.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hive_gulivideo_etl/0213_hive_gulivideo_etl.iml" filepath="$PROJECT_DIR$/0213_hive_gulivideo_etl/0213_hive_gulivideo_etl.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_kafka/0213_kafka.iml" filepath="$PROJECT_DIR$/0213_kafka/0213_kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_mapReduce/0213_mapReduce.iml" filepath="$PROJECT_DIR$/0213_mapReduce/0213_mapReduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_phoenix/0213_phoenix.iml" filepath="$PROJECT_DIR$/0213_phoenix/0213_phoenix.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_scala/0213_scala.iml" filepath="$PROJECT_DIR$/0213_scala/0213_scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_scala212/0213_scala212.iml" filepath="$PROJECT_DIR$/0213_scala212/0213_scala212.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_warehouse_flumeInterceptor/0213_warehouse_flumeInterceptor.iml" filepath="$PROJECT_DIR$/0213_warehouse_flumeInterceptor/0213_warehouse_flumeInterceptor.iml" />
@@ -28,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/hrsystemManager/hrsystemManager.iml" filepath="$PROJECT_DIR$/hrsystemManager/hrsystemManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafkaalert/kafkaalert.iml" filepath="$PROJECT_DIR$/kafkaalert/kafkaalert.iml" />
       <module fileurl="file://$PROJECT_DIR$/log-collector/log-collector.iml" filepath="$PROJECT_DIR$/log-collector/log-collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review/review.iml" filepath="$PROJECT_DIR$/review/review.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_scala212/scala/scala.iml" filepath="$PROJECT_DIR$/0213_scala212/scala/scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala_ter/scala_ter.iml" filepath="$PROJECT_DIR$/scala_ter/scala_ter.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_scala212/spark/spark.iml" filepath="$PROJECT_DIR$/0213_scala212/spark/spark.iml" />

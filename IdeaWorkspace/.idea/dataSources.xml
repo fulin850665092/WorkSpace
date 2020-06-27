@@ -7,5 +7,18 @@
       <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
       <jdbc-url>jdbc:hive2://hadoop102:10000</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="hive_202" uuid="929cd6c7-f158-4607-984b-6712d4e282af">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://hadoop202:10000</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="phoenix" uuid="3b41e5c3-8090-4ec9-bdab-d77875dbb936">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.apache.phoenix.queryserver.client.Driver</jdbc-driver>
+      <jdbc-url>jdbc:phoenix:thin:url=http://hadoop202:8765;serialization=PROTOBUF</jdbc-url>
+    </data-source>
   </component>
 </project>
