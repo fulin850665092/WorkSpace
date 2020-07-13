@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hengyangshiyuan.hrsystem.dao.AddressDao">
+
+	<select id="queryAddress" resultType="Address" >
+		select email,phone,recname,address_str addressStr,address_id addressId  from t_address where `address_id` = #{userId} AND `type`='S'
+	</select>
+	<update id="updateAdress">
+		update t_address set email=#{email}
+							,phone=#{phone}
+							,recname=#{recname}
+							,address_str=#{addressStr}
+						where address_id=#{addressId} AND `type`='S'
+	</update>
+	<insert id="addAdress" parameterType="Address">
+		insert into t_address(`email`,`phone`,`address_str`,address_id,zipcode,recname)
+					 values(#{email},#{phone},#{addressStr},#{addressId},#{zipcode},#{recname})
+	</insert>
+	<select id="queryAddressList" resultType="Address" >
+		select id, email,phone,recname,address_str addressStr,address_id addressId,type,zipcode  from t_address where `address_id` = #{userId} 
+		ORDER BY TYPE DESC
+	</select>
+	<update id="updateType">
+		update t_address set type=#{type}						
+						where id=#{id}
+	</update>
+	<update id="updateTypeByupdateType">
+		update t_address set type=#{type}						
+						where address_id=#{userId}
+	</update>
+	<delete id="deleteAddress">
+		delete from t_address where id=#{id} and type=#{type}
+	</delete>
+</mapper>

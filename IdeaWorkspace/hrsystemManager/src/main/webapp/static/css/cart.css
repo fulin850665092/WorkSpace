@@ -1,0 +1,57 @@
+.zf_title_1 {
+    background: #007e56 none repeat scroll 0 0;
+    border-radius: 2px 2px 0 0;
+        height: 35px;
+    line-height: 35px;
+    border: none;
+}
+.zf_title_1 span {
+    color: #d3ffdb;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+h6 span {
+    float: left;
+    padding-left: 15px;
+}
+.flowBox {
+    border: 1px solid #cbcbcb;
+    border-top: none;
+    padding-top: 1px;
+    background: #fff;
+    margin-bottom: 40px;
+}
+.flowBox table {
+    margin: 15px auto;
+}
+
+.flowBox table {
+    height: 35px;
+    border-collapse: collapse;
+}
+.flowBox table {
+    margin: 15px auto;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.flowBox table td {
+    padding: 6px;
+}
+.flowbox-2 table td, .flowbox-2table th {
+    border: 1px solid #cccccc;
+    text-align: center;
+    padding: 10px;
+}
+.inputBg {
+    border: 1px solid #b3b3b3;
+    background: url(/static/images/css/inputbg.gif) repeat-x left top;
+    height: 18px;
+}

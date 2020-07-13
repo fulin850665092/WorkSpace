@@ -1,0 +1,161 @@
+
+
+html,body,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input {padding: 0;margin: 0;}
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,table,th,td {font-size: 1em;font-style: normal;font-weight: normal;}
+strong {font-weight: bold;}
+ul,ol {list-style: none outside none;}
+fieldset,img {border: medium none;}
+caption,th {text-align: left;}
+table {border-collapse: collapse;border-spacing: 0;}
+body {font: 12px/150% "Hiragino Sans GB", "Microsoft Yahei", arial, ç€¹å¬©ç¶‹, "Helvetica Neue", Helvetica, STHeiTi, sans-serif;color: #666666;background: #FFF none repeat scroll 0 0;margin: 0;padding: 0;}
+a {color: #555;outline: medium none;}
+a:link,a:visited,a:active {text-decoration: none;}
+a:hover { color: red; text-decoration: none;}
+i,cite,em {font-style: normal;}
+article,aside,dialog,footer,header,section,footer,nav,figure,menu {display: block;}
+
+.wrapper,.wrap {width: 1200px;margin: auto;}
+
+.w {width: 100%;}
+
+.fl {float: left;}
+
+.fr {float: right;}
+
+.block {display: block; margin:0 auto;}
+
+.none {display: none;}
+
+.clear{ clear:both; }
+
+.red {color: #f00!important;}
+
+/* ===============
+ * å¤´éƒ¨æ ·å¼
+ * =============== */
+ 
+.rel{ position: relative; width:100%; height:170px;z-index:100;}
+
+.b-top{display: block; height: 30px;width: 100%; }
+
+.b-top .r {color: #666666;float: right;font-size: 12px;}
+
+.b-block {float: left;position: relative;}
+
+.b-block a {color: #666666;float: left;padding: 5px 10px;}
+.b-block a:hover{ color: #cc0000;}
+.b-block span {color: #CCCCCC;float: left;margin: 5px;}
+
+.b-block .b-mls {float: left;margin: 7px 0;line-height: 1.2;}
+
+.b-block .b-mls a, .b-mls div {padding: 0 3px;}
+
+.b-block .b-dropdown {z-index:1; background-color: #fff;border: 1px solid #DEDEDE;box-shadow: 1px 2px 1px #DEDEDE;left: 13px;position: absolute;top: 28px;width: 236px;}
+.b-block a i{ display: block; float: left; }
+.b-block a .b__mobile {background-image: url("//www.aitaocui.cn/indexs/basenew1.png?v01");background-position: -19px -47px;display: inline-block;height: 14px;margin-right: 5px;position: relative;top:2px; width: 10px;}
+.b-block a .b__gbp {background-image: url("//www.aitaocui.cn/indexs/basenew1.png?v01");background-position: -104px -59px;display: inline-block;height: 6px;margin-left: 5px;position: relative;top:6px; width: 9px;}
+
+.b-dropdown .img-box {float: left;margin: 5px 10px 0px 10px;width: 216px;}
+.b-dropdown .img-box a {padding: 5px; width:100%;}
+.b-dropdown .img-box img {float: left;height: 68px;width: 68px;}
+.b-dropdown .img-box .t {color: #666666;font-size: 14px;font-weight: bold;margin-top: 10px;}
+.b-dropdown .img-box .st {color: #CC0000;}
+
+
+.head {margin-top: 15px;}
+.head .l {float: left;width:212px;}
+.head .m {    float: left;margin-top: 20px;width: 450px;margin-left: 85px;}
+.head .r {float: right;margin-top:12px;}
+.head .m .b-srh {width: 585px;}
+.head .b-rec {clear: both; }
+.head .b-rec a {color: #999999;font-size: 12px;margin-right: 10px;}
+#searchForm {line-height: 30px; width:450px;}
+.b-srh .srh-lab {border: 2px solid #04461f;float: left;height: 26px;width: 360px;position: relative;}
+.b-srh .srh-btn {outline: 0 none;background-color: #04461f;border: 0 none;color: #FFFFFF;cursor: pointer;font-size: 14px;height: 30px;line-height: 30px;text-align: center; width: 80px;}
+.b-srh .b__magnifier {background: url("//www.aitaocui.cn/indexs/base.png?v01");background-position: 0 -47px;height: 16px;left: 3px;position: absolute;top: 5px;width: 16px;}
+.b-srh .srh-ipt { display: block; border: 0 none;color: #999999;font-size: 13px; font-family:'å¾®è½¯é›…é»‘' ; height: 25px;line-height: 26px;margin-left: 16px;outline: 0 none;padding-left: 10px;width: 334px;}
+.b-block a.b-toggle { border:1px solid #fff; border-bottom:none;background:#fff;position: relative;z-index:2; }
+.head .r a{ display: block; width:50px; height:70px; float: left; margin:0 8px; }
+
+
+
+
+.public-nav-layout {width: 100%;height: 36px;border-bottom: solid 2px #012700;margin: 0 auto;zoom: 1; background:#fff;}
+.public-nav-layout .all-category {background-color: #026402;display: block;width: 212px;height: 36px;float: left; position: relative; z-index:10;}
+.public-nav-layout .site-menu { font-size: 0;white-space: nowrap;max-width: 988px;float: left;overflow: hidden;}
+.public-nav-layout .all-category .title {line-height: 20px;height: 20px;padding: 8px 10px 10px 10px;}
+.public-nav-layout .all-category .title i {font-size: 0px;line-height: 0; margin:0; background: url(//www.aitaocui.cn/themes/mmb_taocui/images/index/top_bg.png) no-repeat -182px -183px;width: 20px;height:20px;float: left;}
+.wrapper .title h3 {background: none;}
+.public-nav-layout .all-category .title h3 a {font-size: 14px; height:20px; line-height: 20px; font-weight: normal;color: #FFF;float: left;margin-left: 4px;}
+.public-nav-layout .all-category .category {width: 212px;margin-top:-2px;}
+.public-nav-layout .category .menu {background-color: #012700;padding-top: 2px;border-top: solid 1px #012700;}
+.public-nav-layout .category .menu li {background-color: #012700;width: 212px;height: 60px; position: relative; cursor: pointer;}
+/* .public-nav-layout .category .menu li.hover { z-index: 2;} */
+.public-nav-layout .category .class { display: block; width: 183px; height: 40px; padding: 15px 15px;top: 0; left: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s;}
+.public-nav-layout .category .hover .class { background-color: #003402; width: 175px; padding: 9px 15px 9px 23px; }
+.public-nav-layout .category .menu li.hover .class h4 a { color: #FFF;}
+.public-nav-layout .category li.hover .sub-class { display: block;}
+.public-nav-layout .category .class {display: block;width: 183px; height: 40px;padding: 15px 15px;top: 0;left: 0;-webkit-transition: all 0.3s;-moz-transition: all 0.3s;transition: all 0.3s;}
+.public-nav-layout .category .class .arrow {background: url(//www.aitaocui.cn/themes/mmb_taocui/images/index/top_bg.png) no-repeat -150px -10px;width: 3px;height: 5px;float: right;margin: 5px 0 0;}
+.public-nav-layout .category .class .ico {float: left; vertical-align: top;display: inline-block;width: 16px;height: 16px;margin-right: 6px;}
+.public-nav-layout .category .class .ico img,.public-nav-layout .category .class .ico span {display: block;width: 16px;height: 16px;margin: 2px;}
+.public-nav-layout .category .class h4 {vertical-align: top;display: inline-block;}
+.public-nav-layout .category .class h4 a {color: #FFF;font-size: 13px;line-height: 16px;height: 16px;font-weight: normal;}
+.public-nav-layout .category .recommend-class {line-height: 19px;width: 168px;height: 16px;float: left;clear: both;margin-top: 4px;overflow: hidden;margin-left: 23px;}
+.public-nav-layout .category .recommend-class a {color: #FFF;white-space: nowrap;margin-right: 6px;}
+.public-nav-layout .category .sub-class {position: absolute; background-color: #FAFAFA;display: none;padding: 20px;top: -2px;left: 212px; width: 430px;border-top: 2px solid #026402;border-right: 2px solid #026402;border-bottom: 2px solid #026402;}
+.public-nav-layout .category .sub-class-content {display: block;width: 100%;float: left;}
+.public-nav-layout .category .sub-class dl {font-size: 0; word-spacing: -1em;padding-top: 10px;padding-bottom: 10px;border-bottom: 1px dashed #000;}
+.public-nav-layout .category .sub-class dl dt {background: url(//www.aitaocui.cn/themes/mmb_taocui/images/index/top_bg.png) no-repeat right -22px;width: 70px;height: 25px;padding-right: 15px;margin-left: 15px;margin-right: 17px;padding-bottom: 5px;}
+.public-nav-layout .category .sub-class dl dt, .public-nav-layout .category .sub-class dl dd {font-size: 12px;vertical-align: top;letter-spacing: normal;word-spacing: normal;display: inline-block;}
+.public-nav-layout .category .sub-class dl dt h3 {background: none;padding: 0;line-height: 16px;font-weight: 600;color: #026402;text-align: left;}
+.public-nav-layout .category .sub-class dl dt h3 a {line-height: 16px;font-weight: 600;color: #026402;text-align: left;}
+.public-nav-layout .category .sub-class dl dd {font-size: 0;word-spacing: -1em;width: 430px;}
+.public-nav-layout .category .sub-class dl dd a {padding: 0 8px;border-right: 1px solid #aaa;font-size: 12px;color: #7C7171;line-height: 17px;vertical-align: top;letter-spacing: normal;word-spacing: normal;display: inline-block;height: 17px;margin-bottom: 10px;}
+/* ==========================
+ * å¯¼èˆªæ¡ å³
+ * ========================== */
+.public-nav-layout .site-menu li {float: left; vertical-align: top;letter-spacing: normal;word-spacing: normal;display: inline-block;}
+.public-nav-layout .site-menu li a {font-size: 13.9px;font-weight: normal;line-height: 20px;color: #333;height: 20px;padding: 8px 23px;display: inline-block;zoom: 1;}
+/* .public-nav-layout .site-menu li a.current {font-weight: 600;color: #026402;} */
+.public-nav-layout .site-menu a span.new {display: block;position: absolute;background-image: url("//www.aitaocui.cn/themes/mmb_taocui/images/new.gif?v01");background-repeat:no-repeat; height: 17px;right: -3px;top: 0;width: 25px;}
+/*å¸®åŠ©å¯¼èˆª*/
+.help_left dl {padding-bottom: 10px;width: 140px;margin: 0 auto;border-bottom: 1px dotted #000;}
+.help_left dl dt {font-weight: bold;color: #010101;font-size: 14px;padding: 25px 0 15px 0px;}
+.help_left {width: 200px;color: #333;float: left;background: #fbfbfb;height: 100%;border: 1px solid #d3d3d3;padding-bottom: 25px;}
+.help_left .nav a {    padding-left: 30px;color: #fff;}
+.help_left dl dd a {color: #414141;letter-spacing: 1px;line-height: 25px;height: 26px;font-size: 12px;}
+.help_menu_item_0 .nav {background: url(//www.aitaocui.cn//themes/mmb_taocui/images/nav.png) right center no-repeat;width: 208px;margin: 0 -30px;position: relative;height: 26px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

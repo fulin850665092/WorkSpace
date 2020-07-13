@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="hrsystemManager-0.0.1-SNAPSHOT.war">
+    <root id="archive" name="hrsystemManager-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="hrsystemManager:war exploded" />
     </root>
   </artifact>

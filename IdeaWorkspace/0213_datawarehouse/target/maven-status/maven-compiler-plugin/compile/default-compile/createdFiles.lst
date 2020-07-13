@@ -1,0 +1,6 @@
+com/atguigu/dw/hive/udf/TestSimpleUDF.class
+com/atguigu/dw/hive/udf/JsonArrayToStructArray2.class
+com/atguigu/dw/hive/udf/JsonArrayToStructArray1.class
+com/atguigu/dw/hive/udf/JsonArrayToStructArray.class
+com/atguigu/dw/hive/udtf/ExplodeJsonArray.class
+com/atguigu/dw/hive/udf/TestGenericUDF.class

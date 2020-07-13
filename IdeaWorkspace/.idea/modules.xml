@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0213_azkaban/0213_azkaban.iml" filepath="$PROJECT_DIR$/0213_azkaban/0213_azkaban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_datawarehouse/0213_datawarehouse.iml" filepath="$PROJECT_DIR$/0213_datawarehouse/0213_datawarehouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_flink/0213_flink.iml" filepath="$PROJECT_DIR$/0213_flink/0213_flink.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_flume/0213_flume.iml" filepath="$PROJECT_DIR$/0213_flume/0213_flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_gmall/0213_gmall.iml" filepath="$PROJECT_DIR$/0213_gmall/0213_gmall.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hbase/0213_hbase.iml" filepath="$PROJECT_DIR$/0213_hbase/0213_hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hbase_tes/0213_hbase_tes.iml" filepath="$PROJECT_DIR$/0213_hbase_tes/0213_hbase_tes.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hbase_test/0213_hbase_test.iml" filepath="$PROJECT_DIR$/0213_hbase_test/0213_hbase_test.iml" />
@@ -13,8 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/0213_hive/0213_hive.iml" filepath="$PROJECT_DIR$/0213_hive/0213_hive.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hive_gulivideo_etl/0213_hive_gulivideo_etl.iml" filepath="$PROJECT_DIR$/0213_hive_gulivideo_etl/0213_hive_gulivideo_etl.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_kafka/0213_kafka.iml" filepath="$PROJECT_DIR$/0213_kafka/0213_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_kylin_zeppelin/0213_kylin_zeppelin.iml" filepath="$PROJECT_DIR$/0213_kylin_zeppelin/0213_kylin_zeppelin.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_mapReduce/0213_mapReduce.iml" filepath="$PROJECT_DIR$/0213_mapReduce/0213_mapReduce.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_phoenix/0213_phoenix.iml" filepath="$PROJECT_DIR$/0213_phoenix/0213_phoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_redis/0213_redis.iml" filepath="$PROJECT_DIR$/0213_redis/0213_redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_scala/0213_scala.iml" filepath="$PROJECT_DIR$/0213_scala/0213_scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_scala212/0213_scala212.iml" filepath="$PROJECT_DIR$/0213_scala212/0213_scala212.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_warehouse_flumeInterceptor/0213_warehouse_flumeInterceptor.iml" filepath="$PROJECT_DIR$/0213_warehouse_flumeInterceptor/0213_warehouse_flumeInterceptor.iml" />
@@ -24,6 +28,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaWorkspace.iml" filepath="$PROJECT_DIR$/.idea/IdeaWorkspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/day27/day27.iml" filepath="$PROJECT_DIR$/day27/day27.iml" />
       <module fileurl="file://$PROJECT_DIR$/day31/day30.iml" filepath="$PROJECT_DIR$/day31/day30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-common/gmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-logger/gmall-logger.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-logger/gmall-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/gmall-mocker.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-mocker/gmall-mocker.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hdfsClient/hdfs_0213Client.iml" filepath="$PROJECT_DIR$/0213_hdfsClient/hdfs_0213Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/day26/hello (1).iml" filepath="$PROJECT_DIR$/day26/hello (1).iml" />

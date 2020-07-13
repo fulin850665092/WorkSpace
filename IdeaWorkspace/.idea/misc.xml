@@ -53,6 +53,11 @@
         <option value="$PROJECT_DIR$/review/pom.xml" />
         <option value="$PROJECT_DIR$/0213_hbase_test/pom.xml" />
         <option value="$PROJECT_DIR$/0213_phoenix/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_datawarehouse/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_kylin_zeppelin/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_gmall/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_gmall/gmall-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_redis/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hengyangshiyuan.hrsystem.dao.UserDao">
+
+	<select id="queryUserByUsername" resultType="User" >
+		SELECT id ,username, PASSWORD ,email,usertype,brithday,phone,sex,gonggao FROM t_user where username = #{username}
+	</select>
+	<select id="queryUserByUsernameAndPassword" resultType="User">
+		select id ,username, password ,email,usertype from t_user where username = #{username} and password = #{password}
+	</select>
+	<insert id="saveUser" parameterType="User">
+		insert into t_user(`username`,`password`,`email`) values(#{username},#{password},#{email})
+	</insert>
+	<select id="queryLastDate" resultType="String" >
+		select `last_date` from t_user where id = #{id}
+	</select>
+	<update id="UpdateLastDate" >
+		update t_user set `last_date`=#{date} where `id`=#{id}
+	</update>
+	<update id="updateUser" >
+		update t_user set `brithday`=#{brithday},sex=#{sex},email=#{email},phone=#{phone} where `id`=#{id}
+	</update>
+	<update id="updePassword" >
+		update t_user set password=#{newpasswod} where `id`=#{id}
+	</update>
+	<select id="queryForPageTotalCount" resultType="int" >
+		select count(*) from t_user 
+	</select>
+	<delete id="deleteUser" >
+		delete  from t_user  where id=#{id}
+	</delete>
+	<update id="managerUpdateUser" >
+		update t_user set `brithday`=#{brithday}				
+							,username=#{username}
+							,phone=#{phone}
+							,usertype=#{usertype}
+							,sex=#{sex} where `id`=#{id}
+	</update>
+	<update id="updateGongGao" >
+		update t_user set gonggao=#{gonggao}				
+					 where usertype=#{usertype}
+	</update>
+	<select id="quseryByTypeHuiYuan" resultType="int" >
+		select count(*) from t_user where usertype='A'
+	</select>
+	<select id="quseryByTypeAdmin" resultType="int" >
+		select count(*) from t_user where usertype='S'
+	</select>
+</mapper>

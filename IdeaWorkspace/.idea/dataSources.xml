@@ -20,5 +20,19 @@
       <jdbc-driver>org.apache.phoenix.queryserver.client.Driver</jdbc-driver>
       <jdbc-url>jdbc:phoenix:thin:url=http://hadoop202:8765;serialization=PROTOBUF</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="mysql_hadoop202" uuid="1bd72aee-52d4-4a54-8fcb-b724350fb339">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://hadoop202:3306</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+      </driver-properties>
+    </data-source>
   </component>
 </project>
