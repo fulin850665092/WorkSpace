@@ -9,150 +9,108 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="194a083d-c389-48ec-8a7e-1411efa1ce6b" name="Default Changelist" comment="tijiao">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_csv_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_12_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_50_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_connect_api_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_connect_json_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_12_test_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_test_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_streams_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_streams_test_utils_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kylin_kylin_jdbc_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_18_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_5_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_test_2_5_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/0213_datawarehouse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/src/main/java/com/atguigu/dw/hive/udf/JsonArrayToStructArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/src/main/java/com/atguigu/dw/hive/udf/JsonArrayToStructArray11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/src/main/java/com/atguigu/dw/hive/udf/JsonArrayToStructArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/src/main/java/com/atguigu/dw/hive/udf/TestGenericUDF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/src/main/java/com/atguigu/dw/hive/udf/TestSimpleUDF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_datawarehouse/src/main/java/com/atguigu/dw/hive/udtf/ExplodeJsonArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_flume/src/main/java/com/atguigu/flume/interceptor/JsonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_flume/src/main/java/com/atguigu/flume/interceptor/TimeInterceptor_Kafka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_gmall/0213_gmall.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_gmall/gmall-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_gmall/gmall-mocker/gmall-mocker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_gmall/gmall-mocker/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_gmall/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_kafka/src/main/java/com/atguigu/kafka/zidingyi/ConsumerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_kafka/src/main/java/com/atguigu/kafka/zidingyi/MyConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_kafka/src/main/java/com/atguigu/kafka/zidingyi/MyPartitioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_kafka/src/main/java/com/atguigu/kafka/zidingyi/MyProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_kylin_zeppelin/0213_kylin_zeppelin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_kylin_zeppelin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_kylin_zeppelin/src/main/java/com/atguigu/kylin/zeppelin/TestKylin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_redis/0213_redis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_redis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrsystemManager/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hrsystemManager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hrsystemManager_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/hrsystemManager_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hrsystemManager_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/hrsystemManager_war_exploded.xml" afterDir="false" />
+    <list default="true" id="194a083d-c389-48ec-8a7e-1411efa1ce6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_20_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_20_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_20_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_23_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_23_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_23_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_23_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0213_gmall/gmall-logger/src/main/java/com/atguigu/gmalllogger/LogController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_csv_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_12_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_50_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_connect_api_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_connect_json_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_test_0_10_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_12_test_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_39.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_test_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_test_0_10_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_streams_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_0_10_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_streams_test_utils_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_39.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_39.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_18_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_20_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_20_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_20_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_20_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_20_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_20_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_5_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_1_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_test_2_5_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_test_1_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_23_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_23_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_23_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_23_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_23_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_azkaban/0213_azkaban.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_azkaban/0213_azkaban.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_flink/0213_flink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_flink/0213_flink.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_flume/0213_flume.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_flume/0213_flume.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_flume/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_flume/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_flume/target/0213_flume-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_flume/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/0213_flume/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hbase/0213_hbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hbase/0213_hbase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hbase_tes/0213_hbase_tes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hbase_tes/0213_hbase_tes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hbase_test/0213_hbase_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hbase_test/0213_hbase_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hbase_weibo/0213_hbase_weibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hbase_weibo/0213_hbase_weibo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hdfsClient/0213_hdfsClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hdfsClient/0213_hdfsClient.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hive/0213_hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hive/0213_hive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_hive_gulivideo_etl/0213_hive_gulivideo_etl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_hive_gulivideo_etl/0213_hive_gulivideo_etl.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_kafka/0213_kafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_kafka/0213_kafka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_kafka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_mapReduce/0213_mapReduce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_mapReduce/0213_mapReduce.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_phoenix/0213_phoenix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_phoenix/0213_phoenix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_scala212/0213_scala212.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_scala212/0213_scala212.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_scala212/scala/scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_scala212/scala/scala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_scala212/spark/spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_scala212/spark/spark.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0213_zookeeperClient/0213_zookeeperClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_zookeeperClient/0213_zookeeperClient.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HDFS-0508/HDFS-0508.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HDFS-0508/HDFS-0508.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hrsystemManager/hrsystemManager.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log-collector/log-collector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/log-collector/log-collector.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/summer-framework/summer-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/summer-framework/summer-framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0213_gmall/0213_gmall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_gmall/0213_gmall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0213_gmall/gmall-logger/src/test/java/com/atguigu/gmalllogger/GmallLoggerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/0213_gmall/gmall-logger/src/test/java/com/atguigu/gmalllogger/GmallLoggerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0213_gmall/gmall-mocker/gmall-mocker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_gmall/gmall-mocker/gmall-mocker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/java/com/atguigu/uploader/LogUploader.java" beforeDir="false" afterPath="$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/java/com/atguigu/uploader/LogUploader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0213_gmall/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/0213_gmall/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/atguigu/target/" />
     <ignored path="$PROJECT_DIR$/atguigu/com.shanggugui/target/" />
@@ -272,43 +230,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0213_redis/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding>
-                <element signature="e#27#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo1.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              <folding>
-                <element signature="e#27#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0213_gmall/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-295">
-              <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+            <state relative-caret-position="832">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/src/main/java/com/atguigu/gmalllogger/LogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/java/com/atguigu/uploader/LogUploader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -322,11 +268,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/java/com/atguigu/mocker/JsonMocker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+            <state relative-caret-position="11">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realtime-gmall-0213/gmall-mock/src/main/scala/com/atguigu/gmall/mock/MockData.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/scala/com/atguigu/gmall/mock/util/LogUploader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/scala/com/atguigu/gmall/mock/JsonMock.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -402,9 +384,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/api/tes.java" />
-        <option value="$PROJECT_DIR$/0213_flink/src/main/scala/com/atguigu/flink/core/Flink03_StreamWC_ParameterTool.scala" />
-        <option value="$PROJECT_DIR$/0213_hbase_test/pom.xml" />
         <option value="$PROJECT_DIR$/0213_hbase_tes/src/main/java/com/atguigu/hbase/api/HBaseUtil_TES.java" />
         <option value="$PROJECT_DIR$/0213_hbase_test/src/main/scala/HbaseDDL.scala" />
         <option value="$PROJECT_DIR$/0213_phoenix/src/main/java/com/atguigu/phoenix/api/ThinTest.java" />
@@ -453,6 +432,9 @@
         <option value="$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo1.scala" />
         <option value="$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo.scala" />
         <option value="$PROJECT_DIR$/0213_gmall/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_gmall/gmall-logger/src/test/java/com/atguigu/gmalllogger/GmallLoggerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/0213_gmall/gmall-logger/src/main/java/com/atguigu/gmalllogger/LogController.java" />
+        <option value="$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/java/com/atguigu/uploader/LogUploader.java" />
       </list>
     </option>
   </component>
@@ -482,24 +464,6 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="0213_gmall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="0213_gmall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gmall-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gmall-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
@@ -524,7 +488,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -541,20 +505,20 @@
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
               <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
               <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
               <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -562,7 +526,7 @@
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
               <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -571,7 +535,7 @@
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
               <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -581,10 +545,73 @@
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
               <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="gmalllogger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="0213_gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -595,10 +622,10 @@
               <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="mocker" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
@@ -607,10 +634,11 @@
               <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="uploader" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
@@ -619,76 +647,119 @@
               <item name="gmall-mocker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="0213_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="0213_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-logger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="0213_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="0213_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="0213_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="0213_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="0213_redis" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime-gmall-0213" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -724,7 +795,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
     <property name="show.run.dashboard.notification" value="false" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/0213_scala212/scala/target/classes/com/atguigu/scala/test$.class" />
   </component>
@@ -763,26 +834,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.JsonMock">
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atguigu.zookeeper.Client" />
       <module name="0213_zookeeperClient" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="atguigu.zookeeper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.kafka.produce.CustomProducer" />
-      <module name="0213_kafka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.kafka.produce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -811,12 +869,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.flume.interceptor.JsonTest" />
-      <module name="0213_flume" />
+    <configuration name="JsonMock" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.mock.JsonMock" />
+      <module name="gmall-mocker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.flume.interceptor.*" />
+          <option name="PATTERN" value="com.atguigu.gmall.mock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonMocker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mocker.JsonMocker" />
+      <module name="gmall-mocker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mocker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1020,23 +1091,23 @@
       <item itemvalue="Application.WordCountDriver" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Flink03_StreamWC_ParameterTool" />
-      <item itemvalue="Application.JsonTest" />
       <item itemvalue="Application.Produce" />
-      <item itemvalue="Application.CustomProducer" />
       <item itemvalue="Application.TestKylin" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.JsonMocker" />
       <item itemvalue="Spring Boot.HrSystemServer8001_App" />
       <item itemvalue="Spring Boot.SpringbootdemoApplication" />
       <item itemvalue="Spring Boot.GmallLoggerApplication" />
       <item itemvalue="Tomcat Server.tocat8-85" />
-      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.JsonMock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonMock" />
+        <item itemvalue="Application.JsonMocker" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.TestKylin" />
         <item itemvalue="Application.Produce" />
-        <item itemvalue="Application.CustomProducer" />
-        <item itemvalue="Application.JsonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1245,7 +1316,8 @@
       <workItem from="1594275629543" duration="2238000" />
       <workItem from="1594338760661" duration="597000" />
       <workItem from="1594530398716" duration="10429000" />
-      <workItem from="1594610726355" duration="5441000" />
+      <workItem from="1594610726355" duration="8914000" />
+      <workItem from="1594634076444" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="tijiao">
       <created>1592797590104</created>
@@ -1275,7 +1347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593216552866</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tijiao">
+      <created>1594627760652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594627760653</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1311,7 +1390,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1517967000" />
+    <option name="totallyTimeSpent" value="1521972000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1325,7 +1404,7 @@
   <component name="ToolWindowManager">
     <frame x="145" y="97" width="1692" height="1031" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27089947" visible="true" weight="0.20304878" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.27089947" visible="true" weight="0.20609756" />
       <window_info id="Structure" order="1" sideWeight="0.7291005" side_tool="true" weight="0.26460072" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1335,22 +1414,22 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32380953" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49852726" weight="0.40108696" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49852726" weight="0.34565216" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37354496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3278328" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32786885" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.366167" side_tool="true" weight="0.3015873" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.366167" side_tool="true" weight="0.30108696" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32934782" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32991013" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32972974" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49852726" weight="0.37248677" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49852726" weight="0.37173912" />
       <window_info anchor="bottom" id="Application Servers" order="14" sideWeight="0.49872935" weight="0.32756758" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Console" order="16" sideWeight="0.633833" weight="0.38872403" />
-      <window_info anchor="bottom" id="Problems" order="17" weight="0.32870865" />
+      <window_info anchor="bottom" id="Problems" order="17" weight="0.32826087" />
       <window_info anchor="bottom" id="Inspection Results" order="18" weight="0.3278328" />
       <window_info anchor="bottom" id="Thumbnails" order="19" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1456,63 +1535,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://929cd6c7-f158-4607-984b-6712d4e282af/schema/gmall/table/dwd_action_log">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://929cd6c7-f158-4607-984b-6712d4e282af/schema/gmall/table/dwt_activity_topic">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://929cd6c7-f158-4607-984b-6712d4e282af/schema/gmall/table/dws_activity_info_daycount">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://929cd6c7-f158-4607-984b-6712d4e282af/schema/gmall/table/dws_uv_detail_daycount">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-            <filter text="mid_id='mid_1'" />
-            <filter text="mid_id='mid_113'" />
-            <filter text="mid_id='113'" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://929cd6c7-f158-4607-984b-6712d4e282af/schema/gmall/table/dwt_area_topic">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://929cd6c7-f158-4607-984b-6712d4e282af/schema/gmall/table/ads_appraise_bad_topn">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
     <entry file="das://929cd6c7-f158-4607-984b-6712d4e282af/schema/gmall/table/ads_product_info">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -1758,13 +1780,6 @@
     <entry file="file://$PROJECT_DIR$/0213_gmall/0213_gmall.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
@@ -1772,20 +1787,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo.java" />
     <entry file="file://$PROJECT_DIR$/0213_redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -1800,9 +1802,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="256">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
             <element signature="e#27#43#0" expanded="true" />
@@ -1812,7 +1821,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0213_redis/src/main/java/com/atguigu/redis/Demo1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
+        <state relative-caret-position="192">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#27#43#0" expanded="true" />
@@ -1822,8 +1831,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0213_gmall/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-295">
-          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        <state relative-caret-position="832">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/src/main/java/com/atguigu/gmalllogger/LogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1834,10 +1853,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/java/com/atguigu/mocker/JsonMocker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+        <state relative-caret-position="11">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realtime-gmall-0213/gmall-mock/src/main/scala/com/atguigu/gmall/mock/MockData.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/scala/com/atguigu/gmall/mock/JsonMock.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-logger/src/test/java/com/atguigu/gmalllogger/GmallLoggerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/java/com/atguigu/uploader/LogUploader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/src/main/scala/com/atguigu/gmall/mock/util/LogUploader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1895,7 +1956,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>0213_redis</last-edited>
+          <last-edited>IdeaWorkspace</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

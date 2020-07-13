@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/0213_hbase_ter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/realtime-gmall-0213" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/review" vcs="Git" />
   </component>
 </project>
