@@ -31,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-common/gmall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-logger/gmall-logger.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-logger/gmall-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-mocker/gmall-mocker.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-mocker/gmall-mocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-publisher/gmall-publisher.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-publisher/gmall-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0213_gmall/gmall-realtime/gmall-realtime.iml" filepath="$PROJECT_DIR$/0213_gmall/gmall-realtime/gmall-realtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/0213_hdfsClient/hdfs_0213Client.iml" filepath="$PROJECT_DIR$/0213_hdfsClient/hdfs_0213Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/day26/hello (1).iml" filepath="$PROJECT_DIR$/day26/hello (1).iml" />

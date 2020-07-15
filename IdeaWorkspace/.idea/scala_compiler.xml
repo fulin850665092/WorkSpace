@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="0213_flink,0213_scala212,scala,spark" />
+    <profile name="Maven 1" modules="0213_flink,0213_scala212,gmall-logger (1) (com.atgugiu),scala,spark" />
   </component>
 </project>
