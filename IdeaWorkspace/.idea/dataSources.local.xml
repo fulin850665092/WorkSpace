@@ -23,7 +23,7 @@
       <introspection-schemas>*:*|@:@</introspection-schemas>
     </data-source>
     <data-source name="mysql_hadoop202" uuid="1bd72aee-52d4-4a54-8fcb-b724350fb339">
-      <database-info product="MySQL" version="5.7.16" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.44 ( Revision: b3cda4f864902ffdde495b9df93937c3e20009be )" dbms="MYSQL" exact-version="5.7.16" exact-driver-version="5.1">
+      <database-info product="MySQL" version="5.7.16-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.44 ( Revision: b3cda4f864902ffdde495b9df93937c3e20009be )" dbms="MYSQL" exact-version="5.7.16" exact-driver-version="5.1">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
       </database-info>

@@ -9,7 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="day27" />
         <module name="0213_kylin_zeppelin" />
-        <module name="hello (1)" />
+        <module name="gmall-mocker" />
         <module name="gmall-publisher" />
         <module name="0213_redis" />
         <module name="0213_datawarehouse" />
@@ -17,6 +17,7 @@
         <module name="gmall-realtime" />
         <module name="hdfs_0213Client" />
         <module name="0213_hbase_weibo" />
+        <module name="dw-chart" />
         <module name="scala" />
         <module name="0213_hdfsClient" />
         <module name="0213_hive" />
@@ -25,11 +26,13 @@
         <module name="hrsystemManager" />
         <module name="gmall-logger" />
         <module name="0213_hbase_test" />
-        <module name="gmall-mocker" />
+        <module name="HDFS-0508" />
         <module name="springbootdemo" />
         <module name="web" />
+        <module name="gmall-canal" />
         <module name="spark" />
         <module name="0213_hbase" />
+        <module name="0213_flume" />
         <module name="0213_mapReduce" />
         <module name="0213_hbase_tes" />
         <module name="0213_kafka" />
@@ -39,11 +42,11 @@
         <module name="0213_hive_gulivideo_etl" />
         <module name="HDFS-0213" />
         <module name="0213_scala" />
-        <module name="HDFS-0508" />
+        <module name="hello (1)" />
         <module name="review" />
         <module name="gmall-common" />
         <module name="0213_warehouse_flumeInterceptor" />
-        <module name="0213_flume" />
+        <module name="gmall-publisher1" />
         <module name="0213_zookeeperClient" />
         <module name="HDFS_0213" />
       </profile>
@@ -70,22 +73,25 @@
       <module name="0213_scala212" target="1.8" />
       <module name="0213_warehouse_flumeInterceptor" target="1.8" />
       <module name="0213_zookeeperClient" target="1.8" />
-      <module name="day27" target="1.6" />
-      <module name="day30" target="1.6" />
-      <module name="gmall-common" target="1.6" />
+      <module name="day27" target="1.8" />
+      <module name="day30" target="1.8" />
+      <module name="dw-chart" target="1.8" />
+      <module name="gmall-canal" target="1.8" />
+      <module name="gmall-common" target="1.8" />
       <module name="gmall-common (1) (org.example)" target="1.8" />
-      <module name="gmall-logger" target="1.6" />
+      <module name="gmall-logger" target="1.8" />
       <module name="gmall-logger (1) (com.atgugiu)" target="1.8" />
       <module name="gmall-mock" target="1.8" />
-      <module name="gmall-mocker" target="1.6" />
+      <module name="gmall-mocker" target="1.8" />
       <module name="gmall-publisher" target="1.8" />
-      <module name="gmall-realtime" target="1.6" />
+      <module name="gmall-publisher1" target="1.8" />
+      <module name="gmall-realtime" target="1.8" />
       <module name="HDFS-0508" target="1.8" />
       <module name="HDFS_0213" target="1.5" />
       <module name="hdfs_0213Client" target="1.5" />
-      <module name="hello" target="1.6" />
-      <module name="hello (1)" target="1.6" />
-      <module name="hrsystemManager" target="1.6" />
+      <module name="hello" target="1.8" />
+      <module name="hello (1)" target="1.8" />
+      <module name="hrsystemManager" target="1.8" />
       <module name="log-collector" target="1.8" />
       <module name="realtime-gmall-0213" target="1.8" />
       <module name="review" target="1.8" />
@@ -105,6 +111,7 @@
       <module name="gmall-logger" options="" />
       <module name="gmall-mocker" options="" />
       <module name="gmall-publisher" options="" />
+      <module name="gmall-publisher1" options="" />
       <module name="springbootdemo" options="-parameters" />
     </option>
   </component>
