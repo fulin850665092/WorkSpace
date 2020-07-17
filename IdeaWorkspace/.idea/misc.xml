@@ -60,6 +60,8 @@
         <option value="$PROJECT_DIR$/0213_gmall/gmall-publisher/pom.xml" />
         <option value="$PROJECT_DIR$/0213_gmall/gmall-publisher1/pom.xml" />
         <option value="$PROJECT_DIR$/0213_gmall/dw-chart/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_gmall/gmall-canal1/pom.xml" />
+        <option value="$PROJECT_DIR$/0213_gmall/gmall-test/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

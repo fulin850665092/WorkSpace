@@ -8,4 +8,5 @@ public class GmallConstant {
     public static final String TOPIC_STARTUP = "gmall_startup";
     public static final String TOPIC_EVENT = "gmall_event";
     public static final String REDIS_DAU_KEY = "dau";
+    public static final String GMALL_ORDER_INFO = "gmall_order_info";
 }

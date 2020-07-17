@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="Maven: com.atguigu:summer-framework:unknown">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/software/Repository/com/atguigu/summer-framework/unknown/summer-framework-unknown.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC>
       <root url="jar://$USER_HOME$/software/Repository/com/atguigu/summer-framework/unknown/summer-framework-unknown-javadoc.jar!/" />
     </JAVADOC>

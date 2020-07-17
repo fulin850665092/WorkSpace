@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="day27" />
         <module name="0213_kylin_zeppelin" />
-        <module name="gmall-mocker" />
         <module name="gmall-publisher" />
         <module name="0213_redis" />
         <module name="0213_datawarehouse" />
@@ -17,37 +16,39 @@
         <module name="gmall-realtime" />
         <module name="hdfs_0213Client" />
         <module name="0213_hbase_weibo" />
+        <module name="review" />
         <module name="dw-chart" />
         <module name="scala" />
         <module name="0213_hdfsClient" />
         <module name="0213_hive" />
-        <module name="0213_flink" />
+        <module name="hello (1)" />
         <module name="0213_azkaban" />
         <module name="hrsystemManager" />
         <module name="gmall-logger" />
-        <module name="0213_hbase_test" />
-        <module name="HDFS-0508" />
+        <module name="gmall-canal" />
+        <module name="0213_flink" />
+        <module name="gmall-mocker" />
         <module name="springbootdemo" />
         <module name="web" />
-        <module name="gmall-canal" />
         <module name="spark" />
         <module name="0213_hbase" />
-        <module name="0213_flume" />
         <module name="0213_mapReduce" />
         <module name="0213_hbase_tes" />
         <module name="0213_kafka" />
         <module name="0213_phoenix" />
-        <module name="day30" />
+        <module name="gmall-publisher1" />
         <module name="hello" />
         <module name="0213_hive_gulivideo_etl" />
         <module name="HDFS-0213" />
         <module name="0213_scala" />
-        <module name="hello (1)" />
-        <module name="review" />
+        <module name="HDFS-0508" />
+        <module name="gmall-canal1" />
         <module name="gmall-common" />
+        <module name="day30" />
         <module name="0213_warehouse_flumeInterceptor" />
-        <module name="gmall-publisher1" />
+        <module name="0213_flume" />
         <module name="0213_zookeeperClient" />
+        <module name="0213_hbase_test" />
         <module name="HDFS_0213" />
       </profile>
     </annotationProcessing>
@@ -77,6 +78,7 @@
       <module name="day30" target="1.8" />
       <module name="dw-chart" target="1.8" />
       <module name="gmall-canal" target="1.8" />
+      <module name="gmall-canal1" target="1.8" />
       <module name="gmall-common" target="1.8" />
       <module name="gmall-common (1) (org.example)" target="1.8" />
       <module name="gmall-logger" target="1.8" />

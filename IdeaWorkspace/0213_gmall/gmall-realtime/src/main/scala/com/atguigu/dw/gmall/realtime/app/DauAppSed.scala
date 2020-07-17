@@ -12,7 +12,7 @@ import org.apache.spark.streaming.dstream.DStream
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 import redis.clients.jedis.Jedis
 
-object ETLApp {
+object DauAppSed {
   def main(args: Array[String]): Unit = {
     // 1. 从kafka消费数据(启动日志)
     val conf = new SparkConf().setAppName("DAUApp").setMaster("local[1]")
